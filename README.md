@@ -1,2 +1,2 @@
 # Oled-I2C-Screen-Port-Grabber
-Quickly grabs the port of a Oled I2C Screen
+To use download and flash onto Arduino, output will go on port 9600 in the Serial Monitor (Ctrl+Shift+M)
